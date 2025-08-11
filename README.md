@@ -1,13 +1,13 @@
-Dashboard de Análise Imobiliária em Power BI
-📄 Visão Geral
+## Dashboard de Análise Imobiliária em Power BI
+## 📄 Visão Geral
 Este projeto é uma demonstração de habilidades em visualização de dados, apresentando um dashboard desenvolvido em Power BI para a análise de um mercado imobiliário fictício.
 
 O objetivo é exibir, de forma clara e objetiva, os principais indicadores de desempenho (KPIs) do setor, consolidando informações cruciais em um único painel interativo.
 
-📊 O Dashboard
+## 📊 O Dashboard
 O painel foi projetado para ser intuitivo, permitindo uma análise rápida dos dados mais relevantes. Como este projeto é uma demonstração, a interação completa está disponível ao abrir o arquivo .pbix.
 
-✨ Principais KPIs e Análises
+## ✨ Principais KPIs e Análises
 O painel destaca os seguintes indicadores-chave:
 
 Valor Médio dos Imóveis: Custo médio geral e por tipo de propriedade.
@@ -18,14 +18,14 @@ Distribuição de Quartos e Garagens: Análise da configuração mais comum dos 
 
 Filtros Dinâmicos: Permitem segmentar toda a análise por tipo de imóvel, faixa de preço e outras características.
 
-🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 Visualização e Análise: Microsoft Power BI
 
 Linguagem de Análise: DAX (Data Analysis Expressions)
 
 Tratamento de Dados: Power Query
 
-🚀 Como Visualizar
+## 🚀 Como Visualizar
 Faça o download ou clone este repositório.
 
 Tenha o Power BI Desktop instalado em seu computador.
